@@ -1,5 +1,5 @@
 # warzone2100-mod-storage
 
-This repository acts as a file store for mods, particularly those used by WaveHoster. The mods are stored as [**Release assets**](https://github.com/aco4/warzone2100-mod-storage/releases/latest), not tracked in Git.
+This repository acts as a file store for mods, particularly those used by WaveHoster. The mods are stored as [**Release Assets**](https://github.com/aco4/warzone2100-mod-storage/releases/latest), not tracked in Git.
 
 https://github.com/aco4/warzone2100-mod-storage/releases/latest
